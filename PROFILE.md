@@ -1,1 +1,3 @@
-Welcome to my GitHub profile!
+**Welcome to my GitHub profile**
+
+My curiosity has led me here - to learn.
